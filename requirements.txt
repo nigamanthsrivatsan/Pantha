@@ -1,0 +1,9 @@
+jishaku
+DiscordUtils
+discord-components
+discord-ext-menus
+timeago
+discord.py
+aiosqlite
+dblpy
+discord-py-slash-command

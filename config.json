@@ -1,0 +1,8 @@
+{
+    "token" : "yourTokenHere",
+    "toptoken" : "",
+    "owner" : "123456789",
+    "botId" : "123456789",
+    "syncban" : [12345678, 12345678]
+
+}
