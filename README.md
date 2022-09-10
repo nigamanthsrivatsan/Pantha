@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Pantha </h1>
-<a href="https://github.com/nigamanthsrivatsan/Pantha/blob/main/LICENSE"><img alt="License for the project" src="https://img.shields.io/github/license/nigamanthsrivatsan/Pantha?style=for-the-badge"></a>
-<a href="https://github.com/nigamanthsrivatsan/Pantha/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nigamanthsrivatsan/Pantha?style=for-the-badge"></a> 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/nigamanthsrivatsan/Pantha?style=for-the-badge">
+<a href="https://github.com/nigamanthsrivatsan/Pantha/blob/main/LICENSE"><img style="display: inline-block;" alt="License for the project" src="https://img.shields.io/github/license/nigamanthsrivatsan/Pantha?style=for-the-badge"></a>
+<a href="https://github.com/nigamanthsrivatsan/Pantha/stargazers"><img style="display: inline-block;" alt="GitHub stars" src="https://img.shields.io/github/stars/nigamanthsrivatsan/Pantha?style=for-the-badge"></a> 
+<img style="display: inline-block;" alt="GitHub forks" src="https://img.shields.io/github/forks/nigamanthsrivatsan/Pantha?style=for-the-badge">
 
 <p style="text-align: center;"> Welcome to Pantha, a moderation, fun, utility and **completely open source** discord bot for your server! <br>
 Emojis for the bot can be found at [this link](https://discord.gg/thejedi). </p>
