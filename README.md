@@ -4,7 +4,7 @@
 <img style="display: inline-block;" alt="GitHub forks" src="https://img.shields.io/github/forks/nigamanthsrivatsan/Pantha?style=for-the-badge">
 
 <p style="text-align: center;"> Welcome to Pantha, a moderation, fun, utility and **completely open source** discord bot for your server! <br>
-Emojis for the bot can be found at [this link](https://discord.gg/thejedi). </p>
+  Emojis for the bot can be found at <a href="https://discord.gg/thejedi"> this link </a>. </p>
 
 ## Why do I self-host this bot?
 
