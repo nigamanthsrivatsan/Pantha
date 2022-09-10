@@ -22,6 +22,49 @@ Why Pantha? We have these features: (and over **100** commands in total)
 ⭐ **Utilities:** `p.poll`, `p.choose`, `p.embed`, `p.coinflip` and **5** more utility commands. <br>
 📫 **Suggestions:** Users can suggest what they want to you.  <br>
 
-## Self-Hosting
+## Self-Hosting 🚀
 
-> coming soon...
+**You will require Python to do the following:** 
+
+```bash
+$ git clone https://github.com/nigamanthsrivatsan/Pantha.git
+# or if you have the github cli
+gh repo clone nigamanthsrivatsan/Pantha
+$ cd Pantha
+
+# now we install the modules
+$ pip install -r requirements.txt 
+```
+
+Now we edit the "config.json" file in the main directory. 🤔
+
+```json
+{
+    "token" : "yourTokenHere",
+    "toptoken" : "",
+    "owner" : "123456789",
+    "botId" : "123456789",
+    "syncban" : [12345678, 12345678] 
+}
+```
+
+### Fields
+
+The bot token should be there, the topToken is not required, only enter it if you want the bot to be on top.gg.
+There can only be one owner of the bot and their id must be in a string, the bot's ID must also be put in. 
+
+The field "syncban" is the servers that the bot should ban when the owner initiates a "syncban". 
+The feature bans a user in all the servers that you put as long as:
+
+* The bot is in the server.
+* The bot has adequate permissions to do so. 
+
+This is useful for banning someone across guilds (TOS breakers, scammers, etc).
+And now that we have everything customized, we're ready to go! 🚀
+
+```bash
+# and start the bot 
+$ python main.py
+```
+
+*if you would like to help and make sure others see it, please ⭐ the project*
