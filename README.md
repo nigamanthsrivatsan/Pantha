@@ -29,7 +29,7 @@ Why Pantha? We have these features: (and over **100** commands in total)
 ```bash
 $ git clone https://github.com/nigamanthsrivatsan/Pantha.git
 # or if you have the github cli
-gh repo clone nigamanthsrivatsan/Pantha
+$ gh repo clone nigamanthsrivatsan/Pantha
 $ cd Pantha
 
 # now we install the modules
