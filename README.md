@@ -68,3 +68,9 @@ $ python main.py
 ```
 
 *if you would like to help and make sure others see it, please ⭐ the project*
+
+## Contributing
+
+Feel free to open any Issues or Pull Requests that come along your way. 
+I'm still learning discord.py and Python and would require help to make this project truly awesome!
+
