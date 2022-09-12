@@ -67,7 +67,10 @@ And now that we have everything customized, we're ready to go! 🚀
 $ python main.py
 ```
 
-*if you would like to help and make sure others see it, please ⭐ the project*
+## :clap:  Supporters
+[![Stargazers repo roster for @nigamanthsrivatsan/Pantha](https://reporoster.com/stars/nigamanthsrivatsan/Pantha)](https://github.com/nigamanthsrivatsan/Pantha/stargazers)
+[![Forkers repo roster for @nigamanthsrivatsan/Pantha](https://reporoster.com/forks/nigamanthsrivatsan/Pantha)](https://github.com/nigamanthsrivatsan/Pantha/network/members)
+<br/>
 
 ## Contributing
 
