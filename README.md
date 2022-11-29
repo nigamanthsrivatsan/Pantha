@@ -1,4 +1,4 @@
-<img src='https://github.com/nigamanthsrivatsan/Pantha/blob/main/data/botBanner.png'> </img>
+# Pantha
 
 
 <a href="https://github.com/nigamanthsrivatsan/Pantha/blob/main/LICENSE"><img style="display: inline-block;" alt="License for the project" src="https://img.shields.io/github/license/nigamanthsrivatsan/Pantha?style=for-the-badge"></a>
