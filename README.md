@@ -7,6 +7,11 @@
 
 <p style="text-align: center;"> Welcome to Pantha, a moderation, fun, utility and <b> completely open source </b> discord bot for your server! <br>
   Emojis for the bot can be found at <a href="https://discord.gg/thejedi"> this link </a>. </p>
+  
+  
+## Archived
+Pantha's code is (fairly) outdated and was before the Slash commands update. This bot requires the message intent. 
+It still stays as a reference to anyone who wants it though. 
 
 ## Why do I self-host this bot?
 
